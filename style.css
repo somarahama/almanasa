@@ -1,0 +1,160 @@
+.container{
+    position: relative ;
+
+}
+.logo{
+    background-color: #3E54AC;
+}
+.navbar{
+     background-color: #3E54AC;
+}
+.dropdown-menu{
+     background-color: #3E54AC;
+}
+
+.white-text {
+       color: #FFFFFF;
+}
+
+
+/* social media */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  background-color: #3E54AC;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3E54AC;
+  color: white;
+  padding-top:50px;
+}
+
+.fa-twitter {
+  background: #3E54AC;
+  color: white;
+  padding-top:50px;
+}
+.fa-instagram {
+  background: #3E54AC;
+  color: white;
+  padding-top:50px;
+}
+.fa-youtube {
+  background: #3E54AC;
+  color: white;
+  padding-top:50px;
+}
+
+/* navbar section */
+.navbarSection{
+        position: relative;
+
+}
+
+/* last article */
+  #lastArticle{
+   padding: 7% 15%;
+   }
+
+  .divPIC{
+
+  }
+  .title{
+      font-weight: bold;
+      text-align: right;
+      font-size:30px;
+      color: black;
+      padding-top:10px;
+      color:white;
+      text-decoration: none;
+
+  }
+  .text{
+    text-align: center;
+    text-align: justify;
+    text-align-last: right;
+    line-height:1;
+    color:white;
+  }
+  .author{
+    text-align: justify;
+    font-weight: bold;
+    text-align: center;
+    font-size:20px;
+    padding-top:20px;
+  }
+
+  .title1{
+     font-weight: bold;
+      text-align: right;
+      font-size:30px;
+      color: black;
+      padding-top:10px;
+      color:black;
+      text-decoration: none;
+  }
+/* last analysis */
+
+#lastAnalysis{
+    padding: 7% 7% 10% 10% ;
+}.lastana{
+     padding-bottom:30px;
+     padding-top:30px;
+     padding-left:30px;
+     padding-right:30px;
+    }
+
+.TextFeature{
+    text-align: center;
+    text-align-last: right;
+    text-align: justify;
+}
+/* Africa */
+
+  #africa{
+    padding: 5% 5%;
+   }
+
+#africaEvents{
+    padding: 7% 7%;
+}
+
+
+/* footer */
+
+.footer{
+    background-color: #3E54AC;
+     color:white;
+      height: 100%;
+       width: 100%;
+   }
+   .pColor{
+       color: white;
+       font-size: 1rem;
+       text-align: center;
+       font-weight:bold;
+   }
+
+ .aboutPlatform{
+    text-align: right;
+     text-align: justify;
+
+   }
+
+.contact{
+     text-align: right;
+    padding-right:250px;
+    text-align: justify;
+}
+
+/* anasis */
